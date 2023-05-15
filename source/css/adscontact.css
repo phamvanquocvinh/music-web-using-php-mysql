@@ -1,0 +1,28 @@
+img {
+    display: block;
+    max-width: 100%;
+}
+
+h4, h5 {
+    color: white;
+}
+
+.adscontact {
+    background-color: rgba(255, 255, 255, 0.299);
+    padding: 25px 20px;
+    color: white;
+    text-align: justify;
+    border-radius: 5px;
+}
+
+.contact {
+    background-color: rgba(255, 255, 255, 0.299);
+    padding: 25px 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+
+#title {
+    text-align: center;
+}

@@ -1,0 +1,68 @@
+img {
+    border-radius: 5px;
+}
+
+.story, .awards {
+    text-align: justify;
+    color: white;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+ul li a:hover {
+    color: yellow;
+}
+
+ul li {
+    color: white;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+}
+
+h3 {
+    color: white;
+}
+
+.bg-animation {
+    position: fixed;
+}
+
+table {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.459); color: white;
+}
+
+label {
+    color: white;
+}
+
+thead {
+    color: white;
+}
+
+
+input {
+    background-color: rgba(255, 255, 255, 0.429);
+}
+
+#myBar {
+    width: 10%;
+    height: 30px;
+    background-color: #04AA6D;
+    text-align: center;     
+    line-height: 30px; 
+    color: white;
+  }
